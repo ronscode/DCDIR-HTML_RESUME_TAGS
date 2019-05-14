@@ -1,0 +1,25 @@
+/* Using a Google Font */
+
+@import url("https://fonts.googleapis.com/css?family=Monoton|Press+Start+2P");
+
+h1.header {
+  color: greenyellow;
+  text-align: center;
+  font-family: "Press Start 2P", cursive;
+}
+h2.header {
+  color: purple;
+  text-align: center;
+  font-family: "Monoton", cursive;
+}
+
+ul.topNav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 60px;
+}
+
+.topNav li a {
+  display: block;
+}
